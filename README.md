@@ -6,6 +6,7 @@ To run the project:
 1-Download the code in your local machine
 
 2-Open a terminal and run
+    
     cd your-destination-folder
 
 3-Create your .env file and change the enviroment variables correspoding the ones in your local machine.
@@ -26,4 +27,5 @@ To run the project:
     npm start
 
 5-Route to test the application
+    
     /api/v1/tasks
