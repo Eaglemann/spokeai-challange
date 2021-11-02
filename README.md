@@ -9,6 +9,7 @@ To run the project:
     cd your-destination-folder
 
 3-Create your .env file and change the enviroment variables correspoding the ones in your local machine.
+    
     userDB = 'your-username'
 
     hostDB = 127.0.xxx,
