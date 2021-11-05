@@ -1,4 +1,4 @@
-# spokeai-challange
+# todoList-rest-api
 
 
 To run the project:
@@ -22,6 +22,7 @@ To run the project:
     portDB = 5432,
 
 4-Install the dependencies and start the project    
+    
     npm install
 
     npm start
